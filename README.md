@@ -1,6 +1,8 @@
 # Hi there 👋
+<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
 
-<a href="https://github.com/cexll"><img src="https://github-readme-stats.vercel.app/api?username=cexll&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexll&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+<!--
+<a href="https://github.com/cexll"><img src="https://github-readme-stats.vercel.app/api?username=cexll&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexll&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a> --!>
 
 🎉 Welcome to my GitHub profile!
 
