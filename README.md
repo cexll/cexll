@@ -7,8 +7,6 @@ I'm cexll  a 🐳Php Dev engineer I Love PHP,And Hyperf,Swoole.
 
 ## Blog Posts
 
-Only the latest **5** articles are displayed here.
-
 <details>
 <summary>About My Blogs </summary>
   
