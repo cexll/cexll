@@ -5,21 +5,27 @@
 
 I'm cexll  a 🐳Php Dev engineer I Love PHP,And Hyperf,Swoole.
 
-## Blog Posts
 
-<!-- <details>
-<summary>About My Blogs </summary>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cexll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
+
+<details>
+<summary>About Open Source </summary>
+
+ ## My main projects: 
+
+- [Webhook-Swoole](https://github.com/cexll/swoole-webhook) - Using WebHooks to automatically pull code.
+- [Hyperf-Tcc](https://github.com/YogCloud/hyperf-tcc) - 基于Hyperf的TCC分布式事务.
+- [TuChong-Spider](https://github.com/cexll/tuchong_Spider) - 图虫网爬虫.
   
-  ## My Blogs:
-  
-  - [Laravel 使用时的一些优化技巧](https://www.cexll.cn/index.php/archives/90/)
-  - [Composer 国内加速镜像](https://www.cexll.cn/index.php/archives/77/)
-  - [Github上fork项目与源项目同步](https://www.cexll.cn/index.php/archives/25/)
-  - [给Git和终端设置代理,让我们自由飞翔](https://www.cexll.cn/index.php/archives/43/)
-  - [Nginx突破高并发的性能优化](https://www.cexll.cn/index.php/archives/29/)
+## 🏆 Github Profile Trophy
 
-</details>  -->
+![](https://github-profile-trophy.vercel.app/?username=cexll&theme=flat&column=8)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=cexll&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cexll&layout=compact&show_icons=true&theme=flat&hide_title=true)
+
+</details>
+
 
 **See more on [cexll.cn](https://cexll.cn).**
