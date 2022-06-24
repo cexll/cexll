@@ -10,7 +10,7 @@
 
 - 🔭 I’m interested in computer science and astronomy.
 - 🌱 Currently learning Linux, Go, PHP Distributed Systems.
-- 💻 With 4 years' Software Engineering.
+- 💻 With 3 years' Software Engineering.
 - ⛵ Want to participate in open source.
 - 😄 Pronouns: Happy.
 
