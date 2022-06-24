@@ -1,7 +1,7 @@
 # Hi there 👋 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%E7%A5%9D%E4%BD%A0%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83);&center=true&size=19">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22%E7%A5%9D%E4%BD%A0%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83%22);&center=true&size=19">
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/cexll/staticfile/images/header.png"/>
 
 - 🔭 I’m interested in computer science and astronomy.
-- 🌱 Currently learning Linux, Go, Distributed Systems.
+- 🌱 Currently learning Linux, Go, PHP Distributed Systems.
 - 💻 With 4 years' Software Engineering.
 - ⛵ Want to participate in open source.
 - 😄 Pronouns: Happy.
