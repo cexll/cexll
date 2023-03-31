@@ -8,10 +8,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/cexll/staticfile/images/header.png"/>
 
-- 🔭 I’m interested in computer science and astronomy.
-- 🌱 Currently learning Linux, Go, PHP Distributed Systems.
+- 🔭 I am interested in programming, computer networks, digital modeling, AI.
+- 🌱 Currently learning Linux, Python, Go, PHP Distributed Systems.
 - 💻 With 3 years' Software Engineering.
-- ⛵ Want to participate in open source.
+- ⛵ Passionate about open source.
 - 😄 Pronouns: Happy.
 
 
