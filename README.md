@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/cexll/staticfile/images/header.png"/>
 
 - 🔭 I am interested in programming, computer networks, digital modeling, AI.
-- 🌱 Currently learning Linux, Docker, kubernetes, Python, PHP, Go, Ruby, React Distributed Systems.
+- 🌱 Currently learning Linux, Docker, kubernetes, Python, PHP, Go, Ruby, React, Distributed Systems.
 - 💻 With 4 years' Software Engineering.
 - ⛵ Passionate about open source.
 - 😄 Pronouns: Happy.
